@@ -33,3 +33,5 @@
 16. The "compare_regulons_between_disease_in_epithelial.R" is used to reproduce Extended Data Figure 10e,f.
 
 17. The "major_cluster_color.txt" and "minor_cluster_color.txt" files provide color codes for major clusters and cell subtypes to reproduce these plots.
+
+18. Code used to apply integration: scIBD_integration_code.
