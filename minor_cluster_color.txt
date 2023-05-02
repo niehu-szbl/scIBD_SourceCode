@@ -1,0 +1,96 @@
+Non-classical monocyte	#00008B
+Classical monocyte	#22B4FB
+Inflammatory monocyte	#529C47
+APOE+ macrophage	#69B4CE
+LYVE1+ macrophage	#9E6BAB
+AREG+ macrophage	#B39180
+Cycling macrophage	#CAA57D
+cDC1	#D6D4EB
+cDC2	#E066FF
+pDC	#EACF68
+LAMP3+ DC	#F3746C
+Mast	#F7DDD4
+Megakaryocyte	#FFF59B
+CD4+ Tn	#009B9F
+CD4+ Tem	#3955A1
+CD4+ blood-Tcm	#6495ED
+CD4+ tissue-Tcm	#8CB890
+CD4+ TNF_high Trm	#B9D0D8
+CD4+ TNF_low Trm	#D14C4C
+CD4+ Tfh	#DEEAB1
+CD4+ Treg	#ECAFCF
+CD4+ Th17	#F4ACBD
+CD4+ activated T	#FFE4B5
+CD8+ Tn	#228B22
+CD8+ Tcm	#63B472
+CD8+ Tem	#8900C1
+CD8+ IEL	#BB4A94
+CD8+ Trm	#D5E7F7
+CD8+ Teff	#E64B35
+CD8+ activated T	#F39800
+CD8+ MAIT	#FD5312
+NCR- ILC3	#D194A3FF
+NCR+ ILC3	#A8EFE9FF
+CD16+ NK	#B03060FF
+CD56+ SELL_high NK	#37A2F1FF
+CD56+ SELL_low NK	#DD8DB0FF
+IgA plasma	#D9939BFF
+IgG plasma	#F4B0A5FF
+IgA+IgG+ plasma	#B8E1CCFF
+IgA-IgG- plasma	#EFE695FF
+Pro-B	#666666FF
+Naive B	#E18772FF
+Memory B	#9F82A4FF
+GC B	#538BE9FF
+Cycling GC B	#BE8BBBFF
+Cycling plasma	#E586AAFF
+Goblet	#DA949CFF
+Tuft	#F6C985FF
+Paneth	#EDCFB3FF
+Enteroendocrine	#B2D1D3FF
+BEST4+ epithelial	#E3CFE7FF
+DUOX2+ epithelial	#CBDF9AFF
+Pediatric colonocyte	#4AAD62FF
+Adult colonocyte	#C35338FF
+Enterocyte	#E56A79FF
+TA	#C46DA0FF
+Cycling TA	#4A6DCBFF
+Fetal progenitor	#66CEF6FF
+Fetal cycling TA	#A2BFE1FF
+Fetal enterocyte	#D7A9CBFF
+Fetal colonocyte	#E67CC3FF
+Fetal stromal 1	#D8979BFF
+Stromal 1	#E4C994FF
+Fetal stromal 2	#F8BFAFFF
+Stromal 2	#D1BABAFF
+Stromal 3	#C4EBF0FF
+Stromal 4	#EBDBE4FF
+Transitional stromal	#D6E19CFF
+Cycling stromal	#A79388FF
+Myofibroblast 1	#4F7392FF
+Myofibroblast 2	#EAA944FF
+SMC 1	#FB6571FF
+SMC 2	#A56DADFF
+Cycling SMC	#7673AEFF
+Immature pericyte	#1FC6B2FF
+Mature pericyte	#94CCC3FF
+Mesoderm 1	#B4AEC6FF
+Mesoderm 2	#EEB3EAFF
+Mesothelium	#C199E0FF
+LEC	#D7B399FF
+Cycling EC	#B6CBD9FF
+Adult arterial capillary	#B3DE69FF
+Fetal venous capillary	#C71585FF
+Adult venous EC	#DC4AA8FF
+Adult arterial EC	#80B1D3FF
+Fetal arterial EC	#D0A5F8FF
+Neuronal/Branch A	#F7BE98FF
+Neuronal/Branch B	#D7D2B4FF
+Neuroblast	#CBEBF6FF
+Cycling ENCC/glia	#F8F4A8FF
+ENCC/glia progenitor	#74517BFF
+Differentiating glia	#EAA86CFF
+Fetal glia 1	#928AD3FF
+Fetal glia 2	#277AB6FF
+Fetal glia 3	#A0D0DCFF
+Adult glia	#DC95BFFF

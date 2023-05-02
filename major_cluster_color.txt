@@ -1,0 +1,9 @@
+Myeloid	#1851A2
+CD4T	#4374BC
+CD8T	#6AA0D7
+ILC	#42A753
+B_Plasma	#81C07E
+Epithelial	#BFD99C
+Mesenchymal	#ED8121
+Endothelial	#E04A1C
+Neural	#CF001D
